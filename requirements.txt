@@ -5,7 +5,7 @@ streamlit
 setuptools
 sentence_transformers
 pandas
-opencv-python-headless
+opencv-python
 ffmpeg-python
 ffmpeg
 moviepy
