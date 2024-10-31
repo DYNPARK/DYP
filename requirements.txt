@@ -1,12 +1,12 @@
-matplotlib==3.6.3
+matplotlib
 numpy
 pandas
 streamlit
-setuptools>=58.0.0
+setuptools
 sentence_transformers
 pandas
 opencv-python-headless
-ultralytics
 ffmpeg-python
 ffmpeg
 moviepy
+ultralytics==8.0.0
