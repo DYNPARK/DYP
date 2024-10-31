@@ -9,4 +9,4 @@ opencv-python-headless
 ffmpeg-python
 ffmpeg
 moviepy
-ultralytics==8.0.0
+ultralytics
